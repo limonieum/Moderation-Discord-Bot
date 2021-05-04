@@ -1,5 +1,5 @@
 # Moderation-Discord-Bot
-Simple Moderation Discord Bot With Library DBD.js by Me.
+Moderation Discord Bot With Library DBD.js by Me.
 
 # Get Started
 - Clone this Git Repo.
