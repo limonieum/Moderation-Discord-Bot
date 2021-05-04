@@ -13,8 +13,6 @@ Simple Moderation Discord Bot With Library DBD.js by Me.
 https://youtu.be/YFWUE63vFzw
 
 # Useful Link
-[Donate? Click here](https;//jastinch.xyz/donate.html) <br>
-[SUBSCRIBE](https://youtube.com/c/JastinCh) <br>
-[Discord Server](https://jastinch-api.ml/discord) <br>
-[My APIs](https://jastinch-api.ml/)
-
+[Donate? Click here](https://saweria.co/GameZone) <br>
+[SUBSCRIBE](https://youtube.com/c/Content Tv) <br>
+[Discord Server](https://discord.gg/8SbK8AhVW4) <br>
