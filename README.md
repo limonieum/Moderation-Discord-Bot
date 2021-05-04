@@ -14,5 +14,5 @@ https://youtu.be/YFWUE63vFzw
 
 # Useful Link
 [Donate? Click here](https://saweria.co/GameZone) <br>
-[SUBSCRIBE](https://youtube.com/c/Content Tv) <br>
+[SUBSCRIBE](https://www.youtube.com/channel/UCivNM8PQXc5LzvTQXqdR6eA) <br>
 [Discord Server](https://discord.gg/8SbK8AhVW4) <br>
